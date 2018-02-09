@@ -1,0 +1,18 @@
+{
+  "name": "coastalcritters",
+  "version": "1.0.0",
+  "description": "Coastal Critters Project for COMP 585",
+  "main": "serv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node serv.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mysql": "^2.15.0",
+    "path": "^0.12.7",
+    "pug": "^2.0.0-rc.4"
+  }
+}
